@@ -1,0 +1,16 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "StellarPay Threat Model",
+    "owner": "Queen Mukhethe",
+    "description": "a web based digital payment platform enabling users to create accounts, link bank cards, send or receive money, pay for goods and services securely in real time",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Lecturer",
+    "threatTop": 0
+  }
+}
